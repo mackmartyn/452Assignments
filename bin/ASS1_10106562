@@ -1,0 +1,77 @@
+Actual Outputs: 
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+ANN Outputs: 
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,-1
+-1,1
+-1,-1
+-1,1
+-1,-1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+-1,1
+Initial weights: 
+0.46,0.34,0.07,0.1,0.56
+0.66,0.57,0.01,0.52,0.24
+Final weights: 
+-0.019999921,0.48999995,-0.8900001,-0.26,0.56
+-3.8799987,-1.810002,4.8499985,4.3399987,-0.16000003
+Total classification Error: 2.0
+55 Iterations used. The termination criteria is when the root means squared error is equal to 0 or 55 iterations are reached.
+Since this ANN can never be 100% correct, the training stopped at 55 iterations
+Iris-setosa precision = 1.0
+Iris-setosa recall = 1.0
+Iris-versicolor precision = 1.0
+Iris-versicolor recall = 0.8
+Iris-virginica precision = 0.8333333
+Iris-virginica recall = 1.0
